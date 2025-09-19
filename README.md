@@ -14,7 +14,7 @@ using an implemented design on your Basys3 boards.
 | Question 3 | Your answers to the question | 25% |
 
 ## Team Name and Number
-Team 25 (Avien Ramirez & Will W Rizz)
+Team 25 (Avien Ramirez & Will Reisig)
 
 ## Lab Summary
 In this lab, we learned how to use a KMap efficiently when interpreting a truth table. Using a KMap, we were able to efficiently group the outputs that resulted in 1's and 0's to create min and maxterm equations, to then demonstrate that they worked on a Basys3 board using Verilog.
