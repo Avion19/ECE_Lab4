@@ -13,6 +13,9 @@ using an implemented design on your Basys3 boards.
 | Question 2 | Your answers to the question | 25% |
 | Question 3 | Your answers to the question | 25% |
 
+## Team Name and Number
+Team 25 (Avien Ramirez & Will W Rizz)
+
 ## Lab Summary
 
 In this lab we learned how to properly create a K table, properly group 1's and 0's, and create optimized min and maxterm equations.
